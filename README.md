@@ -4,7 +4,7 @@
 
   <!-- Animated Neon Typing Terminal -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=%3E+Initializing+developer+cockpit...;%3E+Full-Stack+Craftsman%3A+React%2C+Node.js%2C+TS+%26+Java;%3E+230%2B+LeetCode+Battles+Won+%7C+100-Day+Badge+%F0%9F%8F%86;%3E+Architecting+CareerAI+%E2%80%94+AI+Career+Intelligence+%F0%9F%9A%80;%3E+Turning+Coffee+%E2%98%95+into+Scalable+Cloud+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=%3E+Initializing+developer+cockpit...;%3E+Full-Stack+Craftsman%3A+React%2C+Node.js%2C+TS+%26+Java;%3E+Daily+LeetCode+Problem+Solver+%7C+100-Day+Badge+%F0%9F%8F%86;%3E+Architecting+CareerAI+%E2%80%94+AI+Career+Intelligence+%F0%9F%9A%80;%3E+Turning+Coffee+%E2%98%95+into+Scalable+Cloud+Systems" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://leetcode.com/u/JeevanShetty7/">
-      <img src="https://img.shields.io/badge/⚡_LeetCode-230+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+      <img src="https://img.shields.io/badge/⚡_LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=Jeevan-Shetty07&label=Profile%20Views&color=818cf8&style=for-the-badge" alt="Profile Views" />
   </p>
@@ -114,11 +114,10 @@ const JeevanShetty: DeveloperProfile = {
   </p>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Solved-230+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-    <img src="https://img.shields.io/badge/Rating-1480-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
-    <img src="https://img.shields.io/badge/Badge-100_Days_2026-00B8A3?style=for-the-badge&logo=codeforces&logoColor=white" />
-    <img src="https://img.shields.io/badge/Streak-65_Days_Record-FF3366?style=for-the-badge&logo=fire&logoColor=white" />
-    <img src="https://img.shields.io/badge/Top_Lang-Java_(222_Solved)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Actively_Solving-00B8A3?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/Badge-100_Days_2026-FFA116?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Contest-Participant-6366F1?style=for-the-badge&logo=target&logoColor=white" />
+    <img src="https://img.shields.io/badge/Primary_Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   </p>
 </div>
 
