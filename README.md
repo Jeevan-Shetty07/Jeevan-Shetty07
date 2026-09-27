@@ -153,12 +153,13 @@ const JeevanShetty: DeveloperProfile = {
 ### 📊 Live GitHub Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeevan-Shetty07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan-Shetty07&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeevan-Shetty07&theme=tokyonight" height="165" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeevan-Shetty07&theme=tokyonight" height="165" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeevan-Shetty07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Jeevan-Shetty07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
