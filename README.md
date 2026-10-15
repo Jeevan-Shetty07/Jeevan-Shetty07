@@ -166,7 +166,7 @@ const JeevanShetty: DeveloperProfile = {
 ### 📡 Connect With Me
 
 <div align="center">
-  <a href="https://jeevanshetty.me" target="_blank">
+  <a href="https://jeevanshetty.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   &nbsp;
