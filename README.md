@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Top Animated Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=220&section=header&text=JEEVAN%20SHETTY&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Architect%20%E2%80%A2%20AI%20Innovator%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=220&section=header&text=JEEVAN%20SHETTY&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Architect%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=20" width="100%" />
 
   <!-- Animated Neon Typing Terminal -->
   <a href="https://git.io/typing-svg">
